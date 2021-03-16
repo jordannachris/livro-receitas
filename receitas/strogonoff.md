@@ -3,7 +3,7 @@
 _italico_
 
 ### Ingredientes
- - Indrediente 1
+ - Ingrediente 1
  - Ingrediente 2
  - Ingrediente 3
 
